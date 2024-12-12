@@ -56,5 +56,5 @@ Using Excel, the following values for successful and unsuccessful campaigns were
 
 The outcomes were then was used to determine whether the mean or the median better summarizes the data. Finally, the data was used to determine if there is more variability with successful or unsuccessful campaigns.
 
-*The analysis for the last section of thic challenge was documented in the Microsoft Word document created beforehand.* 
+*The analysis for the last section of this challenge was documented in the Microsoft Word document created beforehand.* 
 
